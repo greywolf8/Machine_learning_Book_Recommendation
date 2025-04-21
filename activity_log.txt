@@ -1,2 +1,3 @@
 Update changelog — 2025-04-05 20:53:18
 Chore: tidy up script — 2025-04-09 09:02:10
+Fix typo in documentation — 2025-04-21 21:16:43
