@@ -8,3 +8,4 @@ Update changelog — 2025-10-14 11:01:14
 Minor style cleanup — 2025-10-15 18:21:50
 Minor style cleanup — 2025-10-17 21:00:26
 Update helper notes — 2026-02-08 01:48:16
+Add comment for clarity — 2026-02-17 09:37:19
